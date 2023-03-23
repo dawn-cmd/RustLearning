@@ -4,5 +4,10 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"genieai.personalizedName": "Eve",
+		"genieai.openai.temperature": 0.5,
+		"genieai.response.showNotification": true,
+		"genieai.telemetry.disable": false
+	}
 }
