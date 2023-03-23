@@ -1,0 +1,1 @@
+D:\OneDrive\ -\ UW-Madison\Code\RustLearning\trait_learn\target\debug\trait_learn.exe: D:\OneDrive\ -\ UW-Madison\Code\RustLearning\trait_learn\src\lib.rs D:\OneDrive\ -\ UW-Madison\Code\RustLearning\trait_learn\src\main.rs
